@@ -1,3 +1,2 @@
-x = 1
+print('aula 3')
 
-print(X)
